@@ -1,0 +1,18 @@
+.container-home {
+  margin-bottom: 20px;
+}
+.container-home h3 {
+  padding: 20px;
+  color: #1f355f;
+}
+.container-home .container-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+.container-home .container-card a {
+  text-decoration: none;
+  color: #1f355f;
+  font-size: 1.2em;
+}
