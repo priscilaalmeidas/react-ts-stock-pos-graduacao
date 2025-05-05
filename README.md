@@ -1,4 +1,6 @@
 # React + TypeScript + Vite
+Postgraduate project
+API used https://dummyjson.com/docs
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
